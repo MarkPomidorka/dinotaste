@@ -4,6 +4,8 @@ from sprites.road import Road
 from sprites.cloud import Cloud
 from sprites.dino import Dino
 
+# SOME CHANGES
+
 player = Dino()
 
 pygame .init()
