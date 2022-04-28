@@ -7,6 +7,8 @@ from sprites.cactus import Cactus
 from sprites.game import Score
 from sprites.game import GameOver
 
+# SOME CHANGES
+
 player = Dino()
 
 pygame.init()
